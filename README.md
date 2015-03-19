@@ -14,6 +14,7 @@
 
 - Add features and maintain a fraud detection platform build with Django on Amazon Web Services
 - Integrated with Shopify and BigCommerce and cleaned up and added new features to an integration with Yahoo Small Business
+- Deployed and managed 3 instances of a Django application on AWS instances running Amazon Linux 
 
 ##### Engineering Intern, Onboard Informatics — New York, NY, 6/2009 – 9/2009
 
@@ -22,10 +23,12 @@
 ##### IT and Engineering Intern, Riorey — Bethesda, MD, 10/2006 – 7/2007
 
 - Implemented and tested a hardware design for advanced network security devices
+- Engineered and built a testing framework to attempt to establish thousands of simultaneous TCP or UDP connections on individual virtual network interfaces from a single machine to simulate DDOS attack scenarios using Bash on OpenSUSE Linux
  
 ##### Associate, The Lazarus Foundation — Columbia, MD, 6/2002 – 11/2007
 
-- Recycled donated computers including batches of hundreds as part of a recycling program
+- Refurbished donated computers including batches of hundreds as part of a recycling program which then distributed the computers back to non profits, libraries, schools, etc. in the community
+- Created a tool to duplicate hard drives in Python on Debian Linux
 
 
 ##Education
