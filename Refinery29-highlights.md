@@ -1,0 +1,3 @@
+- Build an OpenStack development and QA environment with an OAuth access layer and a bot to ease developer interactions.
+- Transitioned the refinery29.com site from a custom PHP CMS on bare metal with a Node JS front end to a hosted WordPress with the front end containerized in Kubernetes on AWS EKS.
+- Transitioned our CDN from Verizon Edgecast to Fastly in order to see performance and cost of maintenance gains, as well as being able to adopt Fastly's Image Optimazation service to replace a custom image manipulation service.
