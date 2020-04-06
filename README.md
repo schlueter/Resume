@@ -3,15 +3,21 @@
 
 #### Employment
 
+##### Site Reliability Engineer, Currency — Los Angeles, CA 1/2020 - 4/2020
+
+- Created Terraform scripts utilizing Ansible to fully provision an authenticated Kafka cluster on Azure vms
+- Created YAML CI/CD pipelines for Nodejs and Dotnet apps running direct or in Docker containers on Azure Devops
+- Used Terraform to provision an Azure Kubernetes cluster (AKS)
+
 ##### Senior DevOps Engineer, Refinery29 — New York, NY & Los Angeles, CA 4/2015 - 11/2019
 
-- Spearheaded an effort implementing OpenStack to replace an aging Eucalyptus cluster. Along with the cluster, I built systems to dynamically build development and staging environments using a slackbot for easy user access and an OAuth implementation for Nginx restricting access to members of our GitHub organization.
 - Containerized a server side rendered React application and an Nginx routing system using Docker and deployed to AWS EKS using Terraform. The system also takes advantage of SpotInst to minimize costs and is managed by Jenkins which is also running in the Kubernetes cluster.
-- As part of a larger migration of our CMS from a custom PHP application to Wordpress, I built a system utilizing AWS Lambda and SQS, which populates our route store in redis.
-- In order to increase our develivery speeds and ease the amount of development necessary for CDN configuration changes, I consolidated our CDN usage to Fastly.
-- To reign in a complex system which utilized nearly half a dozen disparate systems, most of which were terribly outdated, I replaced our monitoring, metric collection/visualization, and alerting systems with Datadog.
-- Provided operations support for the team which build Refinery29's "Money Diaries" user submission system including integration of Rabbitmq into the Refinery29 infrastructure.
-- Following adoption of Ansible, I reimplemented an aging, local development system using Vagrant. This included an extensive ruby plugin which eased developer effort to update the environment.
+- Built a system utilizing AWS Lambda and SQS, which populates our route store in redis.
+- Consolidated our CDN usage to Fastly.
+- Introduced and implemented Datadog for monitoring.
+- Implemented OpenStack to replace a Eucalyptus cluster. Additionally, I built systems to dynamically build single VM development and multi VM staging environments using a slackbot for easy user access and an OAuth implementation for Nginx restricting access to members of our GitHub organization.
+- Provided operations support for the team which build Refinery29's "Money Diaries" user submission system including integration of Rabbitmq.
+- Implemented a local development system using Vagrant. This included an extensive ruby plugin which eased developer effort to update the environment.
 - Converted a legacy puppet system to Ansible.
 
 ##### Software Engineer, Elephant Ventures — New York, NY, 3/2013 – 4/2015
